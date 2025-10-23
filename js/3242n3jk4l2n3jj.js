@@ -1,0 +1,1 @@
+const _uri="https://b20i25.addtix.id/booking/bj2i5tlp/access";$(document).ready(function(){$("#_bn").on("click",function(n){n.preventDefault(),window.location.href=_uri+"?_s="+(new Date).valueOf()})});
